@@ -3,7 +3,7 @@ title: Writing Goals and Principles
 layout: article
 ---
 
-With every piece of content we publish, we aim to:
+With every piece of content we publish, we aim to: TEST
 
 * **Empower.** Help people understand Mailchimp by using language that informs them and encourages them to make the most of our products.
 
